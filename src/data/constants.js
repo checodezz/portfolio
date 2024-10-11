@@ -6,7 +6,7 @@ export const Bio = {
   github: "https://github.com/checodezz",
   linkedin: "https://www.linkedin.com/in/checodezz/",
   resume:
-    "https://drive.google.com/file/d/1tzOe8vW1q5aSYvaDPhOPQj4ezuAMdFRl/view?usp=drive_link",
+    "https://docs.google.com/document/d/1_oh0LMkb2aW2VTUoXf9guQ6R7QdueJDFN2fOx-U0v40/edit?usp=sharing",
 };
 
 export const experiences = [
@@ -27,16 +27,16 @@ export const experiences = [
   },
 ];
 
-export const education = [
-  {
-    id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
-    collage: "savitribai phule pune university",
-    date: "Oct 2021 - may 2024",
-    grade: 8.0,
-    degree: "Bachelor of Computer Applications",
-  },
-];
+// export const education = [
+//   {
+//     id: 0,
+//     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+//     collage: "savitribai phule pune university",
+//     date: "Oct 2021 - may 2024",
+//     grade: 8.0,
+//     degree: "Bachelor of Computer Applications",
+//   },
+// ];
 
 export const skills = [
   {
@@ -124,7 +124,7 @@ export const projects = [
       "Tailwind CSS"
     ],
     category: "web app",
-    github: "https://github.com/7vTr0x7/TweetIT",
+    github: "https://github.com/checodezz/Flipkart-clone",
     webapp: "https://flippkart.vercel.app/",
   },
   {
@@ -141,8 +141,8 @@ export const projects = [
       "Bootstrap",
     ],
     category: "web app",
-    github: "https://github.com/7vTr0x7/MyCart",
-    webapp: "https://my-cart-frontend.vercel.app/",
+    github: "https://github.com/checodezz/meetup-frontend",
+    webapp: "https://meetup-frontend-tau.vercel.app/",
   },
 ];
 

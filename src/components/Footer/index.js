@@ -87,7 +87,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Salman Shaikh</Logo>
+        <Logo>Chethan Kumar</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -102,7 +102,7 @@ function Footer() {
             <LinkedInIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2024 Salman Shaikh. All rights reserved.</Copyright>
+        <Copyright>&copy; No Copyrights. Feel free to replicate.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
