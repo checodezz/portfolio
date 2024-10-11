@@ -33,7 +33,7 @@ const Navbar = () => {
             color: "white",
             marginBottom: "20",
           }}>
-          <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
+          <DiCssdeck size="3rem" /> <Span>chethankumar.in</Span>
         </NavLogo>
         <MobileIcon>
           <FaBars
