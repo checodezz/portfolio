@@ -1,5 +1,5 @@
 import DataVizImage from "../images/dataVizimage.png"
-
+import EmailClientImage from "../images/emailCLient.png"
 export const Bio = {
   name: "Chethan Kumar",
   roles: ["Frontend Developer", "Full Stack Developer"],
@@ -166,6 +166,22 @@ export const projects = [
     github: "https://github.com/checodezz/meetup-frontend",
     webapp: "https://meetup-frontend-tau.vercel.app/",
   },
+  {
+    id: 4,
+    title: "Email Client",
+    // date: "Aug 2024 - Aug 2024",
+    description:
+      "This email list app features a user-friendly interface for viewing and managing emails, allowing users to mark emails as favorites, distinguish between read and unread emails, and filter by favorites, read, and unread status, all while displaying emails in a master-slave view with detailed email content loaded on selection.",
+    image: EmailClientImage,
+    tags: [
+      "React Js",
+      "Bootstrap",
+      "Rest Api"
+    ],
+    category: "web app",
+    github: "https://github.com/checodezz/email-client",
+    webapp: "https://email-client-roc8-moonshot.vercel.app/",
+  }
 ];
 
 export const TimeLineData = [{ year: 2023, text: "Started my journey" }];
