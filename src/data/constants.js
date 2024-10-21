@@ -1,3 +1,5 @@
+import DataVizImage from "../images/dataVizimage.png"
+
 export const Bio = {
   name: "Chethan Kumar",
   roles: ["Frontend Developer", "Full Stack Developer"],
@@ -47,11 +49,11 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
       },
-      // {
-      //   name: "TypeScript",
-      //   image:
-      //     "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg",
-      // },
+      {
+        name: "Material UI",
+        image:
+          "https://v4.material-ui.com/static/logo.png",
+      },
       {
         name: "JavaScript",
         image:
@@ -127,10 +129,30 @@ export const projects = [
     github: "https://github.com/checodezz/Flipkart-clone",
     webapp: "https://flippkart.vercel.app/",
   },
+
   {
     id: 2,
+    title: "DataViz",
+    // date: "Aug 2024 - Aug 2024",
+    description:
+      "Built an interactive data visualization dashboard using the MERN stack, enabling users to analyze large datasets through intuitive charts and advanced filtering options. The dashboard supports filtering by date range, age, and gender, with dynamic bar and line charts to visualize engagement trends over time. Features include real-time data updates, zoom and pan functionalities on charts, and URL sharing with filters embedded for easy access. Authentication and efficient cookie management ensure secure and personalized user experiences.",
+    image: DataVizImage,
+    tags: [
+      "React Js",
+      "Express Js",
+      "MongoDB",
+      "Bootstrap",
+      "Chart.js",
+      "Google Cloud Console"
+    ],
+    category: "web app",
+    github: "https://github.com/checodezz/data-visualization-dashboard",
+    webapp: "https://data-visualization-dashboard-psi.vercel.app",
+  },
+  {
+    id: 3,
     title: "Meetup Clone",
-    date: "Aug 2024 - Aug 2024",
+    // date: "Aug 2024 - Aug 2024",
     description:
       "Developed a web application enabling users to browse, and participate in meetups with seamless navigation.Key features include participant management, and real-time updates. Integrated client-side routing with React Router DOM and built a consistent, maintainable UI using modern JavaScript",
     image: "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Meetup_website_screenshot.png/300px-Meetup_website_screenshot.png",
