@@ -8,7 +8,7 @@ export const Bio = {
   github: "https://github.com/checodezz",
   linkedin: "https://www.linkedin.com/in/checodezz/",
   resume:
-    "https://drive.google.com/file/d/1IdSKdAOcJ-psF1n57D-PPhOPqGXTjzGK/view?usp=sharing",
+    "https://drive.google.com/file/d/11DnCk9q1An9sod_evS63NyianP2D4j-O/view?usp=drive_link",
 };
 
 export const experiences = [
